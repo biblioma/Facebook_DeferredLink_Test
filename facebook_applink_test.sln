@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FC4524EF-9A15-0BB3-6081-76EE668458C9}") = "facebook_applink_test", "Assembly-CSharp.csproj", "{5213CC41-2B86-AF09-3EED-8D663213685F}"
+EndProject
+Project("{FC4524EF-9A15-0BB3-6081-76EE668458C9}") = "facebook_applink_test", "Assembly-CSharp-Editor.csproj", "{F18C6044-7284-579D-2C10-3FED7660D8A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5213CC41-2B86-AF09-3EED-8D663213685F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5213CC41-2B86-AF09-3EED-8D663213685F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5213CC41-2B86-AF09-3EED-8D663213685F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5213CC41-2B86-AF09-3EED-8D663213685F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18C6044-7284-579D-2C10-3FED7660D8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18C6044-7284-579D-2C10-3FED7660D8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18C6044-7284-579D-2C10-3FED7660D8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18C6044-7284-579D-2C10-3FED7660D8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
